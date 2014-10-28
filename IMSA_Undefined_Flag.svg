@@ -15,7 +15,7 @@
    id="svg3520"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="IMSA_Underground_Flag_less.svg">
+   sodipodi:docname="IMSA_Undefined_Flag.svg">
   <defs
      id="defs3522" />
   <sodipodi:namedview
@@ -29,13 +29,13 @@
      inkscape:cx="971"
      inkscape:cy="540"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-height="708"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="31"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3525">
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +55,7 @@
      inkscape:groupmode="layer"
      transform="translate(0,-80)">
     <rect
-       style="fill:#2c89a0;stroke:none"
+       style="fill:#5599ff;stroke:none"
        id="rect3607"
        width="1618"
        height="999.979"

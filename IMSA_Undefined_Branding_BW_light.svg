@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -145,10 +145,6 @@
          id="tspan3777"
          x="535.21143"
          y="905.20978"
-         style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"><tspan
-           style="font-weight:bold;fill:#000000"
-           id="tspan3783">#undef</tspan><tspan
-           style="fill:#e6e6e6"
-           id="tspan3785">ined</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book;font-weight:normal;fill:#b3b3b3">#undefined</tspan></text>
   </g>
 </svg>
