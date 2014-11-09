@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="ReserveAdSpace.svg"
-   inkscape:export-filename="/home/geo/Documents/Github-Websites/imsa-undefined/clubhub/media/ReserveAd1x1.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/geo/Downloads/DefaultSquare.png"
+   inkscape:export-xdpi="40"
+   inkscape:export-ydpi="40">
   <defs
      id="defs3002" />
   <sodipodi:namedview
@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-125"
-     inkscape:cy="520"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="649.28632"
+     inkscape:cy="478.91868"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="708"
@@ -39,7 +39,12 @@
      inkscape:window-y="31"
      inkscape:window-maximized="1"
      units="in"
-     inkscape:snap-page="true" />
+     inkscape:snap-page="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3063" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3005">
     <rdf:RDF>
@@ -56,12 +61,256 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-152.35975)">
+     transform="translate(0,-152.35975)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3043"
+       width="900"
+       height="900"
+       x="0"
+       y="0"
+       transform="translate(0,152.35975)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer#1"
+     style="opacity:1">
+    <rect
+       style="fill:#ff80e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066"
+       width="100"
+       height="100"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#ff80e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-3"
+       width="100"
+       height="100"
+       x="0"
+       y="100" />
+    <rect
+       style="fill:#ff80e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-8"
+       width="100"
+       height="100"
+       x="200"
+       y="100" />
+    <rect
+       style="fill:#ff80e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-36"
+       width="100"
+       height="100"
+       x="800"
+       y="800" />
+    <rect
+       style="fill:#ff80e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-7"
+       width="100"
+       height="100"
+       x="800"
+       y="700" />
+    <rect
+       style="fill:#ff80e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-9"
+       width="100"
+       height="100"
+       x="800"
+       y="600" />
+    <rect
+       style="fill:#80b3ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0"
+       width="100"
+       height="100"
+       x="200"
+       y="0" />
+    <rect
+       style="fill:#80b3ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-7"
+       width="100"
+       height="100"
+       x="300"
+       y="0" />
+    <rect
+       style="fill:#80b3ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-6"
+       width="100"
+       height="100"
+       x="400"
+       y="0" />
+    <rect
+       style="fill:#80b3ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-67"
+       width="100"
+       height="100"
+       x="500"
+       y="0" />
+    <rect
+       style="fill:#80b3ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-72"
+       width="100"
+       height="100"
+       x="400"
+       y="100" />
+    <rect
+       style="fill:#80b3ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-8"
+       width="100"
+       height="100"
+       x="500"
+       y="200" />
+    <rect
+       style="fill:#55ff99;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62"
+       width="100"
+       height="100"
+       x="600"
+       y="800" />
+    <rect
+       style="fill:#55ff99;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-2"
+       width="100"
+       height="100"
+       x="500"
+       y="800" />
+    <rect
+       style="fill:#55ff99;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-3"
+       width="100"
+       height="100"
+       x="500"
+       y="700" />
+    <rect
+       style="fill:#55ff99;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-6"
+       width="100"
+       height="100"
+       x="300"
+       y="800" />
+    <rect
+       style="fill:#55ff99;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-7"
+       width="100"
+       height="100"
+       x="200"
+       y="700" />
+    <rect
+       style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0"
+       width="100"
+       height="100"
+       x="0"
+       y="700" />
+    <rect
+       style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-0"
+       width="100"
+       height="100"
+       x="0"
+       y="600" />
+    <rect
+       style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-2"
+       width="100"
+       height="100"
+       x="200"
+       y="400" />
+    <rect
+       style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-5"
+       width="100"
+       height="100"
+       x="300"
+       y="400" />
+    <rect
+       style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-8"
+       width="100"
+       height="100"
+       x="500"
+       y="500" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-28"
+       width="100"
+       height="100"
+       x="800"
+       y="100" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-28-6"
+       width="100"
+       height="100"
+       x="700"
+       y="0" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-28-2"
+       width="100"
+       height="100"
+       x="700"
+       y="300" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-28-3"
+       width="100"
+       height="100"
+       x="800"
+       y="0" />
+    <rect
+       style="fill:#55ff99;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-3-3"
+       width="100"
+       height="100"
+       x="300"
+       y="300" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-28-2-3"
+       width="100"
+       height="100"
+       x="0"
+       y="800" />
+    <rect
+       style="fill:#80b3ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-72-3"
+       width="100"
+       height="100"
+       x="700"
+       y="600" />
+    <rect
+       style="opacity:1;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3066-0-62-0-28-21"
+       width="100"
+       height="100"
+       x="0"
+       y="300" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer#2"
+     style="opacity:0.664">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3424"
+       width="900"
+       height="900"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2990"
-       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       transform="matrix(1.2827937,0,0,1.2986556,-42.349549,129.24043)"><flowRegion
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Roboto;-inkscape-font-specification:Roboto"
+       transform="matrix(1.2827937,0,0,1.2986556,-42.349549,-23.11932)"><flowRegion
          id="flowRegion2992"><rect
            id="rect2994"
            width="642.40961"
@@ -72,5 +321,5 @@
          id="flowPara2996"
          style="font-size:46.93984985px">See your club ad here!</flowPara><flowPara
          id="flowPara2998"
-         style="font-size:46.93984989px;-inkscape-font-specification:Roboto Light;font-family:Roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%">Contact gmoe@imsa.edu</flowPara></flowRoot>  </g>
+         style="font-size:46.93984985px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto Light">Contact gmoe@imsa.edu</flowPara></flowRoot>  </g>
 </svg>
