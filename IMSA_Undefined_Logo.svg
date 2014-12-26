@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="IMSA_Undefined_Logo.svg"
-   inkscape:export-filename="/home/geo/Documents/Github-Websites/IMSA-Undefined/imsaundefined/media/IMSA_Undefined_Logo_White.png"
+   inkscape:export-filename="/home/geo/Documents/Github-Websites/IMSA-Undefined/imsaundefined.github.io/media/IMSA_Undefined_Logo_White.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <sodipodi:namedview
@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="85.15625"
-     inkscape:cy="57.34375"
+     inkscape:cx="24.40625"
+     inkscape:cy="46.824119"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="708"
+     inkscape:window-height="702"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,15 +81,15 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:49.903759px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       x="8.9902239"
-       y="66.533058"
+       style="font-size:118.70375061000000017px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="15.513314"
+       y="92.195473"
        id="text3518"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3520"
-         x="8.9902239"
-         y="66.533058"
-         style="font-style:normal;fill:#000000">[ # ]</tspan></text>
+         x="15.513314"
+         y="92.195473"
+         style="font-style:normal;fill:#ffffff">#</tspan></text>
   </g>
 </svg>
