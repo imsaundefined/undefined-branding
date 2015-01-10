@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="152.04675"
+     inkscape:cy="51.055813"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-center="false"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg">
+    <rect
+       style="fill:#1a1a1a;stroke:none;stroke-width:4.89570188999999978;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3016"
+       width="299.59872"
+       height="100"
+       x="0.40127113"
+       y="5.0515148e-15" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36218)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3007"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffe680;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.5751422,0,0,1.5751422,56.330413,941.58794)"><flowRegion
+         id="flowRegion3009"><rect
+           id="rect3011"
+           width="61.785717"
+           height="62.142857"
+           x="42.142857"
+           y="13.214286"
+           style="fill:#ffe680" /></flowRegion><flowPara
+         id="flowPara3013"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffe680;font-family:Roboto;-inkscape-font-specification:Roboto">#</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.156152,0,0,1.1622956,29.434932,964.18817)"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="162.5"
+           height="76.428574"
+           x="11.071428"
+           y="9.2857141"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara2991"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Utopia;-inkscape-font-specification:Utopia Bold Italic">Ask</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5599ff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.1938105,0,0,1.1938105,30.424221,954.58489)"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="144.28572"
+           height="50.714283"
+           x="91.785713"
+           y="14.642857"
+           style="fill:#5599ff" /></flowRegion><flowPara
+         id="flowPara2999"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5599ff;font-family:Roboto;-inkscape-font-specification:Roboto">IMSA</flowPara></flowRoot>  </g>
+</svg>
