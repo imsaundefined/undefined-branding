@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="Club_Hub_Branding.svg"
-   inkscape:export-filename="/home/geo/Documents/Github-Websites/imsa-underground/club-hub/media/Club_Hub_Branding.png"
+   inkscape:export-filename="/home/geo/Documents/Github-Websites/IMSA-Undefined/imsaundefined.github.io/clubhub/media/Club_Hub_Branding.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
   <defs
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42426407"
-     inkscape:cx="785.99931"
-     inkscape:cy="357.83215"
+     inkscape:zoom="0.15"
+     inkscape:cx="1318.1603"
+     inkscape:cy="166.52662"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-center="true"
      inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-height="702"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -60,28 +60,28 @@
      transform="translate(0,-480)">
     <text
        xml:space="preserve"
-       style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
-       x="220.28152"
-       y="797.20508"
+       style="font-size:393.82910156000002644px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
+       x="73.347626"
+       y="925.76294"
        id="text2993"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2995"
-         x="220.28152"
-         y="797.20508"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab">Club</tspan></text>
+         x="73.347626"
+         y="925.76294"
+         style="font-size:393.82910156000002644px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Semi-Light';fill:#ff5555">Club</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0066ff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1118.7615"
-       y="988.23438"
+       style="font-size:52.51054763999999864px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5599ff;fill-opacity:1;stroke:#5599ff;font-family:Sans"
+       x="1212.0645"
+       y="925.76294"
        id="text3773"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3775"
-         x="1118.7615"
-         y="988.23438"
-         style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0066ff;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab">Hub</tspan></text>
+         x="1212.0645"
+         y="925.76294"
+         style="font-size:393.82910156000002644px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5599ff;stroke:#5599ff;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Semi-Light'">Hub</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -91,19 +91,19 @@
      transform="translate(0,-480)">
     <g
        id="g4145"
-       transform="translate(-30.704508,247.44293)">
+       transform="translate(-11.047267,240.77626)">
       <g
          id="g4122"
          style="display:inline">
         <path
-           style="fill:none;stroke:#ff2a2a;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ff5555;stroke:#ff5555;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m 1009.2187,539.99998 -184.21866,0"
            id="path3949"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc"
            inkscape:transform-center-x="75" />
         <path
-           style="fill:none;stroke:#0066ff;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#80b3ff;stroke:#5599ff;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m 1009.2187,539.99998 184.2187,0"
            id="path3949-6"
            inkscape:connector-curvature="0"
